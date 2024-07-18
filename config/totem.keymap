@@ -83,7 +83,7 @@ label= "BASE"                              ;
                 &kp V       &kp M       &kp L       &kp C       &kp P           &kp X       &kp F       &kp O       &kp U       &kp J
                 &mt LALT S  &mt LGUI T  &mt LSHFT R &mt LCTRL D &kp Y           &kp DOT     &mt RSHFT N &mt RCTRL A &mt RALT E  &mt RGUI I
     &kp Q       &kp Z       &kp K       &kp Q       &kp G       &kp W           &kp B       &kp H       &kp APOS    &kp FSLH    &kp COMMA    &kp BSLH
-                                        &mo NAV     &kb SPACE   &mo FUN         &mo NUM     &mt LSHIFT ENTER   &mo SYM
+                                        &mo NAV     &kb SPACE   &mo FUN         &mo SYM     &mt LSHFT ENTER   &mo SYM
                         >;
                 };
 
@@ -108,7 +108,7 @@ label= "WORK"                              ;
                 &kp Q       &kp D       &kp R       &kp W       &kp B           &kp J       &kp F       &kp U       &kp P       &kp APOS
                 &mt LALT A  &mt LGUI S  &mt LSHFT H &mt LCTRL T &kp G           &kp Y       &mt RCTRL N &mt RSHFT E &mt RGUI O  &mt RALT I
     &kp Q       &kp Z       &kp X       &kp M       &kp C       &kp V           &kp K       &kp L       &kp COMMA   &kp DOT     &kp FSLH    &kp BSLH
-                                        &mo NAV     &kp SPACE   &mo FUN         &mo NUM     &mt LSHIFT ENTER  &mo SYM
+                                        &mo NAV     &kp SPACE   &mo FUN         &mo SYM     &mt LSHIFT ENTER  &mo SYM
                         >;
                 };
 
