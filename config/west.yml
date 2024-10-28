@@ -2,11 +2,9 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: joWei
-      url-base: https://github.com/joWei
   projects:
     - name: zmk
-      remote: zmk-config-totem
+      remote: zmkfirmware
       revision: main
       import: app/west.yml
   self:
